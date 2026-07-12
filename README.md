@@ -41,7 +41,7 @@ Temperature unit: **degrees Celsius**.
 
 The original downloaded CSV files are stored in [`source-data/source/`](source-data/source/). The combined dataset is stored in [`source-data/processed/`](source-data/processed/). The interactive HTML plot is stored in [`plot/`](plot/).
 
-> These are coordinate-based Open-Meteo historical weather data, not direct measurements from university or campus weather stations.
+> These are coordinate-based Open-Meteo historical weather data.
 
 ## Direct CSV download links
 
