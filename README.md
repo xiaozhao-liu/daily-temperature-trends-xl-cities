@@ -1,6 +1,6 @@
 # Daily Temperature Trends Across XL's Cities
 
-Interactive daily temperature comparison for **DeKalb, Tallahassee, Nashville, Guangzhou, and Hong Kong**—cities where I have lived or currently live—covering **January 1, 2025 to July 12, 2026**.
+Interactive daily temperature comparison for **Guangzhou, DeKalb, Tallahassee, Nashville, and Hong Kong**—cities where I have lived or currently live—covering **January 1, 2025 to July 12, 2026**.
 
 ## Interactive plot
 
