@@ -121,4 +121,4 @@ pandas>=2.0
 plotly>=5.20
 ```
 
-The `.gitignore` file is useful and should be kept because it prevents local virtual environments, Python cache files, and macOS `.DS_Store` files from being committed.
+The `.gitignore` file is useful and should be kept because it prevents local virtual environments.
