@@ -4,9 +4,9 @@ Interactive daily temperature comparison for **Guangzhou, DeKalb, Tallahassee, N
 
 ## Interactive plot
 
-After GitHub Pages is enabled, open:
+Open:
 
-**https://xiaozhao-liu.github.io/daily-temperature-trends-xl-cities/daily_temperature_trend_interactive.html**
+**https://xiaozhao-liu.github.io/daily-temperature-trends-xl-cities/plot/daily_temperature_trend_interactive.html**
 
 The chart supports hover values, scroll/drag zoom, a range slider, city visibility controls, and fixed date-range buttons starting from January 1, 2025.
 
